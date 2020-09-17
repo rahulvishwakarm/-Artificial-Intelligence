@@ -1,3 +1,8 @@
+#Hill Climbing Algorithm
+#Hill Climbing is a heuristic search used for mathematical optimization problems in the field of Artificial Intelligence. 
+#Given a large set of inputs and a good heuristic function, it tries to find a sufficiently good solution to the problem. 
+#This solution may not be the global optimal maximum.
+
 import random
 import string
 
